@@ -3,7 +3,6 @@
 using namespace std;
 
 //ALSHARIAR HOSSAIN MITHU
-//ROLL:2107066
 
 class varsity;
 void Admin_Login(varsity &);
